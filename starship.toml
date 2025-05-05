@@ -1,0 +1,12 @@
+format = """
+$directory
+$character """
+
+[fill]
+symbol = ""
+[directory]
+home_symbol = "~Von64"
+[package]
+disabled = true
+
+
